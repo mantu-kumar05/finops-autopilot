@@ -2,6 +2,8 @@
 
 **Agentic Financial Reconciliation & Exception Resolution Platform**
 
+![FinOps Autopilot dashboard](docs/dashboard.png)
+
 FinOps Autopilot is an intelligent financial operations platform that automates payment reconciliation, detects settlement exceptions, identifies anomalous transactions using machine learning, and assists with exception resolution.
 
 ## 🚀 Features
